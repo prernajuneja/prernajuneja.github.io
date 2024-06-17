@@ -18,18 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Emily Tseng
+title: Prerna Juneja
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Emily studies computing and technology design.
+  Assistant Professor at Seattle University.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://emtseng.me" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: emtseng
-github_username:  emtseng
+twitter_username: Prerna__6
+github_username:  prerna79
 header_pages:
   - publications.html
-  - blog.html
-  - defense.html
+  - cv.html
 
 # Build settings
 theme: minima
