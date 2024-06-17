@@ -14,7 +14,7 @@ h1 {
 }
 
 #quadrant-wrapper {
-  max-width: 100%;
+  max-width: 1024px;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -54,7 +54,6 @@ h1 {
 
 #profile-photo {
   width: 100%;
-  height: auto;
 }
 
 .pub {
