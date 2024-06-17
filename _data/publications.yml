@@ -19,7 +19,7 @@
 - title: "Assessing enactment of content regulation policies: A post hoc crowd‑sourced audit of election misinformation on YouTube"
   authors: "<b>Prerna Juneja</b>, Momen Bhuiyan, and Tanushree Mitra"
   venue: ACM CSCW 2023.
-  <!--desc: "Building on our FAccT 2023 CRAFT session, this workshop explores how HCI and CSCW as research fields can better align with the values necessary for community-collaborative work."-->
+  #desc: "Building on our FAccT 2023 CRAFT session, this workshop explores how HCI and CSCW as research fields can better align with the values necessary for community-collaborative work."
   online: https://dl.acm.org/doi/10.1145/3544548.3580846
   pdf: "election.pdf"
 - year: 2022
