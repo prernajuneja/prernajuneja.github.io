@@ -23,7 +23,7 @@ title: Prerna Juneja
 description: >- # this means to ignore newlines until "baseurl:"
   Assistant Professor at Seattle University.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://prernajuneja" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://prernajuneja.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Prerna__6
 github_username:  prerna79
 header_pages:
