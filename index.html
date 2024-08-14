@@ -11,47 +11,23 @@ layout: home
     padding: 20px;
   }
 
-  #about-text, #about-photo {
-    flex: 1;
-    padding: 20px;
-  }
-
   #about-text {
-    flex: 2; /* Make the text section slightly larger */
+    flex: 3;
+    padding: 20px;
   }
 
   #about-photo {
+    flex: 1;
     display: flex;
     justify-content: center;
     align-items: center;
-    flex: 1;
     padding: 20px;
-    margin: 0; /* Remove extra margin to reduce white space */
   }
 
   #profile-photo {
     max-width: 100%;
     height: auto;
     border-radius: 10px;
-  }
-
-  #news {
-    margin-top: 40px;
-  }
-
-  .news-item {
-    margin-bottom: 15px;
-  }
-
-  @media (min-width: 768px) {
-    #quadrant-wrapper {
-      flex-direction: row;
-      justify-content: space-between;
-    }
-
-    #about-photo {
-      padding: 0 20px; /* Adjust padding to balance the spacing */
-    }
   }
 
   @media (max-width: 767px) {
@@ -61,6 +37,7 @@ layout: home
 
     #about-photo {
       margin-bottom: 20px;
+      text-align: center;
     }
   }
 </style>
@@ -92,17 +69,4 @@ layout: home
   <div id="about-photo">
     <img id="profile-photo" src="./assets/headshot.jpeg" alt="Prerna in Paris, smiling" />
   </div>
-</div>
-
-<div id="news">
-  <h2>News</h2>
-  <br>
-  {%- if site.data.news -%}
-    {%- for item in site.data.news -%}
-    <div class="news-item">
-      <div class="news-time">{{item.time}}</div>
-      <div class="news-txt">{{item.txt}}</div>
-    </div>
-    {%- endfor -%}
-  {%- endif -%}
 </div>
