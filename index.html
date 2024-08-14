@@ -2,44 +2,96 @@
 layout: home
 ---
 
+<style>
+  #quadrant-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 900px;
+    margin: auto;
+    padding: 20px;
+  }
+
+  #about-text, #about-photo {
+    flex: 1;
+    padding: 20px;
+  }
+
+  #about-text {
+    text-align: justify;
+  }
+
+  #about-photo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+
+  #profile-photo {
+    max-width: 100%;
+    border-radius: 10px;
+  }
+
+  #news {
+    margin-top: 40px;
+  }
+
+  .news-item {
+    margin-bottom: 15px;
+  }
+
+  @media (min-width: 768px) {
+    #quadrant-wrapper {
+      flex-direction: row;
+      justify-content: space-between;
+    }
+
+    #about-photo {
+      margin-bottom: 0;
+      padding-left: 40px;
+    }
+  }
+</style>
+
 <div id="quadrant-wrapper">
-  <div class="quadrant" id="about-text">
-    <!-- <p>
-      Hello!
-    </p> -->
+  <div id="about-text">
+    <h1>Prerna Juneja</h1>
     <p>
       I am an Assistant Professor in the Computer Science Department at Seattle University. Before
-joining SU, I obtained my Ph.D. from the <a href="https://ischool.uw.edu/">Information School</a> at the University of Washington.<br><br>
-My research focuses on understanding how problematic information appears and is moderated
-on online platforms and then designing defenses against the problematic information by
-considering human-centered insights from stakeholder groups. <br><br> I'm currently pursuing
-research in the Responsible AI space with a focus on investigating algorithms for bias and
-designing for trust, agency, transparency, and explainability. <br><br> Since January 2024, I have also been part of OpenAI's Red Teaming Network, participating in efforts to assess the risks and safety profiles of OpenAI's models and systems.
-
-      
-      
+      joining SU, I obtained my Ph.D. from the <a href="https://ischool.uw.edu/">Information School</a> at the University of Washington.
     </p>
-    
     <p>
-      <b>Contact me:</b> prernajun6 [at] gmail [dot] com</b>. <br></br> I also <a
-        href="https://x.com/Prerna__6">tweet</a>
-      sometimes.
+      My research focuses on understanding how problematic information appears and is moderated
+      on online platforms and then designing defenses against the problematic information by
+      considering human-centered insights from stakeholder groups.
+    </p>
+    <p>
+      I'm currently pursuing research in the Responsible AI space with a focus on investigating algorithms for bias and
+      designing for trust, agency, transparency, and explainability.
+    </p>
+    <p>
+      Since January 2024, I have also been part of OpenAI's Red Teaming Network, participating in efforts to assess the risks and safety profiles of OpenAI's models and systems.
+    </p>
+    <p>
+      <b>Contact me:</b> prernajun6 [at] gmail [dot] com.<br>
+      I also <a href="https://x.com/Prerna__6">tweet</a> sometimes.
     </p>
   </div>
-  <div class="quadrant" id="about-photo">
+  <div id="about-photo">
     <img id="profile-photo" src="./assets/headshot.jpeg" alt="Prerna in Paris, smiling" />
   </div>
-   <div id="news">
-    <b>News</b>
-    <br><br>
-    {%- if site.data.news -%}
-      {%- for item in site.data.news -%}
-      <div class="news-item">
-        <div class="news-time">{{item.time}}</div>
-        <div class="news-txt">{{item.txt}}</div>
-      </div>
-      {%- endfor -%}
-    {%- endif -%}
-    </ul>
-  </div>
+</div>
+
+<div id="news">
+  <h2>News</h2>
+  <br>
+  {%- if site.data.news -%}
+    {%- for item in site.data.news -%}
+    <div class="news-item">
+      <div class="news-time">{{item.time}}</div>
+      <div class="news-txt">{{item.txt}}</div>
+    </div>
+    {%- endfor -%}
+  {%- endif -%}
 </div>
