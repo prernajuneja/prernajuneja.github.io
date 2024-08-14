@@ -70,4 +70,19 @@ layout: home
   <div id="about-photo">
     <img id="profile-photo" src="./assets/headshot.jpeg" alt="Prerna in Paris, smiling" />
   </div>
+  <div id="news">
+    <b>News</b>
+    <br><br>
+    {%- if site.data.news -%}
+      {%- for item in site.data.news -%}
+      <div class="news-item">
+        <div class="news-time">{{item.time}}</div>
+        <div class="news-txt">{{item.txt}}</div>
+      </div>
+      {%- endfor -%}
+    {%- endif -%}
+    </ul>
+  </div>
 </div>
+
+
