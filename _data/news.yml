@@ -1,5 +1,5 @@
 - time: Sept-Oct 2024
-  txt: "And for a <i>fortnight</i>, there I was in Australia, surrounded by its reefs, oceans, beaches, mountains, and majestic wildlife."
+  txt: "And for a <i>fortnight</i>, there I was in <font color='#d1001f'>Australia</font>, surrounded by its reefs, oceans, beaches, mountains, and majestic wildlife."
 - time: Aug 2024
   txt: "As a member of OpenAI's Red Teaming Network, I had the opportunity to assess the risks and safety profile of GPT-4o, focusing on multimodality and Speech2Speech interactions. Check out the <a href='https://openai.com/index/gpt-4o-system-card/' style='text-decoration: underline;' target='_blank'>report</a> and <a href='https://openai.com/index/gpt-4o-system-card/external-testers-acknowledgements/' style='text-decoration: underline;' target='_blank'>acknowledgement</a>."
 - time: July 2024
@@ -11,6 +11,6 @@
 - time: July 2023
   txt: "Defended my Ph.D. thesis."
 - time: June 2023
-  txt: "I am thrilled to have been awarded the prestigious 2023 Graduate School Medal. This recognition holds particular significance as it marks the first time in almost a decade that an iSchool community member has received this esteemed award. News covered by <a href='https://grad.uw.edu/prerna-juneja/' target='_blank'>Grad School</a> and <a href='https://ischool.uw.edu/news/2023/06/ischool-phd-candidate-prerna-juneja-awarded-graduate-school-medal' target='_blank'>iSchool</a>."
+  txt: "I am thrilled to have been awarded the prestigious <font color='#d1001f'>2023 Graduate School Medal</font>. This recognition holds particular significance as it marks the first time in almost a decade that an iSchool community member has received this esteemed award. News covered by <a href='https://grad.uw.edu/prerna-juneja/' style='text-decoration: underline;' target='_blank'>Grad School</a> and <a href='https://ischool.uw.edu/news/2023/06/ischool-phd-candidate-prerna-juneja-awarded-graduate-school-medal' style='text-decoration: underline;' target='_blank'>iSchool</a>."
 - time: April 2023
-  txt: "'Traveling to Hamburg to attend CHI 2023, with stops in <font color='#0077B6'>Amsterdam</font> and <font color='#d1001f'>Paris</font> on the way back.'"
+  txt: "'Traveling to Hamburg to attend CHI 2023, with stops in <font color='#d1001f'>Amsterdam</font> and <font color='#d1001f'>Paris</font> on the way back.'"
