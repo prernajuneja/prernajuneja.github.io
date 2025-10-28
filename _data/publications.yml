@@ -2,7 +2,8 @@
 - title: "Algorithmic Behaviors Across Regions: A Geolocation Audit of YouTube Search for COVID-19 Misinformation between the United States and South Africa"
   authors: "Hayoung Jung, <b>Prerna Juneja</b>, and Tanushree Mitra"
   venue: ICWSM 2025.
-  online: https://arxiv.org/pdf/2409.10168
+  pdf: "geo-audit"
+  online: https://ojs.aaai.org/index.php/ICWSM/article/view/35854
 - year: 2024
 - title: "Dissecting users’ needs for search result explanations"
   authors: "<b>Prerna Juneja</b>, Wenjuan Zhang, Alison Marie Smith‑Renner, Hemank Lamba, Joel Tetreault, and Alex Jaimes"
