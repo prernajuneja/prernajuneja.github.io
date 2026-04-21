@@ -5,7 +5,7 @@
 - title: "Social Stereotypes in AI Text-to-Image Generation"
   authors: "Saharsh Barve, Andy Mao, Jiayue Melissa Shi, <b>Prerna Juneja</b>, and Koustuv Saha"
   venue: AI and Ethics 2026.
-  pdf: "social_stereotypes"
+  pdf: "social_stereotypes.pdf"
   online: https://ojs.aaai.org/index.php/ICWSM/article/view/35854
 - title: "YouCred: An Online Tool Co-Designed with Fact-Checkers for Misinformation Discovery on YouTube"
   authors: "<b>Prerna Juneja</b>, Dongkai Xie, Guangyin Ye, and Tanushree Mitra"
@@ -14,7 +14,7 @@
 - title: "Algorithmic Behaviors Across Regions: A Geolocation Audit of YouTube Search for COVID-19 Misinformation between the United States and South Africa"
   authors: "Hayoung Jung, <b>Prerna Juneja</b>, and Tanushree Mitra"
   venue: ICWSM 2025.
-  pdf: "geo-audit"
+  pdf: "geo-audit.pdf"
   online: https://ojs.aaai.org/index.php/ICWSM/article/view/35854
 - year: 2024
 - title: "Dissecting users’ needs for search result explanations"
