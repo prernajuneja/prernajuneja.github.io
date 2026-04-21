@@ -2,6 +2,14 @@
 - title: "Persona-Grounded Safety Evaluation of AI Companions in Multi-Turn Conversations"
   authors: "<b>Prerna Juneja</b> and Lika Lomidze"
   venue: ACL Main 2026.
+- title: "Social Stereotypes in AI Text-to-Image Generation"
+  authors: "Saharsh Barve, Andy Mao, Jiayue Melissa Shi, <b>Prerna Juneja</b>, and Koustuv Saha"
+  venue: AI and Ethics 2026.
+  pdf: "social_stereotypes"
+  online: https://ojs.aaai.org/index.php/ICWSM/article/view/35854
+- title: "YouCred: An Online Tool Co-Designed with Fact-Checkers for Misinformation Discovery on YouTube"
+  authors: "<b>Prerna Juneja</b>, Dongkai Xie, Guangyin Ye, and Tanushree Mitra"
+  venue: CSCW 2026.
 - year: 2025
 - title: "Algorithmic Behaviors Across Regions: A Geolocation Audit of YouTube Search for COVID-19 Misinformation between the United States and South Africa"
   authors: "Hayoung Jung, <b>Prerna Juneja</b>, and Tanushree Mitra"
