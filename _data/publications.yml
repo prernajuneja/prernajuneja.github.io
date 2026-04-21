@@ -1,6 +1,7 @@
 - year: 2026
 - title: "Persona-Grounded Safety Evaluation of AI Companions in Multi-Turn Conversations"
   authors: "<b>Prerna Juneja</b> and Lika Lomidze"
+  pdf: "AI_companion_audit.pdf"
   venue: ACL Main 2026.
 - title: "Social Stereotypes in AI Text-to-Image Generation"
   authors: "Saharsh Barve, Andy Mao, Jiayue Melissa Shi, <b>Prerna Juneja</b>, and Koustuv Saha"
@@ -14,7 +15,7 @@
 - title: "Algorithmic Behaviors Across Regions: A Geolocation Audit of YouTube Search for COVID-19 Misinformation between the United States and South Africa"
   authors: "Hayoung Jung, <b>Prerna Juneja</b>, and Tanushree Mitra"
   venue: ICWSM 2025.
-  pdf: "geo-audit.pdf"
+  pdf: "geo.pdf"
   online: https://ojs.aaai.org/index.php/ICWSM/article/view/35854
 - year: 2024
 - title: "Dissecting users’ needs for search result explanations"
