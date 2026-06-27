@@ -1,7 +1,7 @@
 - year: 2026
 - title: "Persona-Grounded Safety Evaluation of AI Companions in Multi-Turn Conversations"
   authors: "<b>Prerna Juneja</b> and Lika Lomidze"
-  pdf: "AI_companion_audit.pdf"
+  pdf: "acl_2026.pdf"
   online: https://aclanthology.org/2026.acl-long.828.pdf
   venue: "<span style='color:#d62828'>ACL Main 2026 (Oral).</span>"
 - title: "Social Stereotypes in AI Text-to-Image Generation"
