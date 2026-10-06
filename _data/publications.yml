@@ -12,6 +12,9 @@
 - title: "YouCred: An Online Tool Co-Designed with Fact-Checkers for Misinformation Discovery on YouTube"
   authors: "<b>Prerna Juneja</b>, Dongkai Xie, Guangyin Ye, and Tanushree Mitra"
   venue: CSCW 2026.
+  award: 🏆 Best Paper Award
+  pdf: "cscw2026.pdf"
+  online: https://dl.acm.org/doi/pdf/10.1145/3817042
 - year: 2025
 - title: "Algorithmic Behaviors Across Regions: A Geolocation Audit of YouTube Search for COVID-19 Misinformation between the United States and South Africa"
   authors: "Hayoung Jung, <b>Prerna Juneja</b>, and Tanushree Mitra"
