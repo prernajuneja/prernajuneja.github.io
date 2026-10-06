@@ -3,6 +3,7 @@
   authors: "<b>Prerna Juneja</b> and Lika Lomidze"
   pdf: "acl_2026.pdf"
   online: https://aclanthology.org/2026.acl-long.828.pdf
+  slides: "acl_slides.pdf"
   venue: "<span style='color:#d62828'>ACL Main 2026 (Oral).</span>"
 - title: "Social Stereotypes in AI Text-to-Image Generation"
   authors: "Saharsh Barve, Andy Mao, Jiayue Melissa Shi, <b>Prerna Juneja</b>, and Koustuv Saha"
@@ -15,6 +16,7 @@
   award: 🏆 Best Paper Award
   pdf: "cscw2026.pdf"
   online: https://dl.acm.org/doi/pdf/10.1145/3817042
+  slides: "youcred_slides.pdf"
 - year: 2025
 - title: "Algorithmic Behaviors Across Regions: A Geolocation Audit of YouTube Search for COVID-19 Misinformation between the United States and South Africa"
   authors: "Hayoung Jung, <b>Prerna Juneja</b>, and Tanushree Mitra"
